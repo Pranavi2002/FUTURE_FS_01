@@ -70,9 +70,16 @@ git clone https://github.com/Pranavi2002/FUTURE_FS_01.git
 
 ## Screenshots
 
+### Profile
 ![Profile](screenshots/profile.png)
-! [AboutMe-WorkExperience](screenshots/about-experience.png)
+
+### About Me & Work Experience
+![AboutMe-WorkExperience](screenshots/about-experience.png)
+
+### Projects
 ![Projects](screenshots/projects.png)
+
+### Technical Skills & Contact
 ![Skills-Contact](screenshots/skills-contact.png)
 
 ---
