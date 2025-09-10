@@ -73,7 +73,7 @@ git clone https://github.com/Pranavi2002/FUTURE_FS_01.git
 
 ## Live Demo
 
-Check out the live portfolio here: [Netlify Link](https://your-netlify-link.netlify.app)
+Check out the live portfolio here: [Netlify Link](https://pranavi-futureinternstask1.netlify.app/)
 
 ---
 
