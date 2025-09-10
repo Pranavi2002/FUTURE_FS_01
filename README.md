@@ -8,6 +8,12 @@ The design and structure are inspired by a popular YouTube portfolio tutorial an
 
 ---
 
+## Live Demo
+
+Check out the live portfolio here: [Netlify Link](https://pranavi-futureinternstask1.netlify.app/)
+
+---
+
 ## Features
 - **Responsive Navbar** with desktop and mobile views
 - **Profile Section**: Displays my photo, name, and a brief introduction
@@ -68,12 +74,6 @@ git clone https://github.com/Pranavi2002/FUTURE_FS_01.git
 ! [AboutMe-WorkExperience](screenshots/about-experience.png)
 ![Projects](screenshots/projects.png)
 ![Skills-Contact](screenshots/skills-contact.png)
-
----
-
-## Live Demo
-
-Check out the live portfolio here: [Netlify Link](https://pranavi-futureinternstask1.netlify.app/)
 
 ---
 
