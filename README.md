@@ -1,4 +1,4 @@
-# Portfolio Task 1 - Personal Portfolio Website
+# Future Interns Task 1 - Personal Portfolio Website
 
 ## Overview
 This is a **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
